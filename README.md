@@ -1,32 +1,28 @@
-# 👋 Olá! Eu sou o Arthur
+# 👋 Hey! I'm Arthur
 
-### 💻 Sobre mim
-Sou profissional de DevOps/DevSecOps com experiência em:
+### 💻 About me
+I'm a DevOps/DevSecOps professional with experience in:
 - Kubernetes & OpenShift  
 - CI/CD (GitLab, GitHub Actions, Jenkins)  
-- Observabilidade (Prometheus, Grafana, ELK, OpenTelemetry)  
-- Automação com Ansible  
-- Segurança em pipelines  
+- Observability (Prometheus, Grafana, OpenTelemetry)  
+- Automation with Ansible  
+- Pipeline security  
 
 ---
 
-### 🚀 Tecnologias que uso no dia a dia
-![Quarkus](https://img.shields.io/badge/Terraform-000?logo=quarkus)
+### 🚀 Technologies I use daily
+![Quarkus](https://img.shields.io/badge/Quarkus-000?logo=quarkus)
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/Ansible-000?logo=ansible)
 ![Terraform](https://img.shields.io/badge/Terraform-000?logo=terraform)
+
 ---
 
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schariar11&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schariar11&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schariar11&layout=compact&theme=tokyonight)
 
 ---
-
-### ✨ Curiosidades
-- Gosto de automação, infra escalável e problemas cabeludos.  
-- Atualmente estudando mais sobre cloud pública e segurança.  
-
