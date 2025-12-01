@@ -25,13 +25,6 @@ Sou profissional de DevOps/DevSecOps com experiência em:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
 
-### 🛠️ Projetos em destaque
-#### 🔹 Projeto X
-Infra como código para ambiente Kubernetes com Ansible + ArgoCD.
-
-#### 🔹 Projeto Y
-Pipeline CI/CD completo em GitLab com scanner SAST/DAST.
-
 ---
 
 ### ✨ Curiosidades
