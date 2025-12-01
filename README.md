@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Arthur
 
-<!--
-**schariar11/schariar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Sobre mim
+Sou profissional de DevOps/DevSecOps com experiência em:
+- Kubernetes & OpenShift  
+- CI/CD (GitLab, GitHub Actions, Jenkins)  
+- Observabilidade (Prometheus, Grafana, ELK, OpenTelemetry)  
+- Automação com Ansible  
+- Segurança em pipelines  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias que uso no dia a dia
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes)
+![Ansible](https://img.shields.io/badge/Ansible-000?logo=ansible)
+![Azure](https://img.shields.io/badge/Azure-000?logo=microsoft-azure)
+![Terraform](https://img.shields.io/badge/Terraform-000?logo=terraform)
+
+---
+
+### 📈 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+
+### 🛠️ Projetos em destaque
+#### 🔹 Projeto X
+Infra como código para ambiente Kubernetes com Ansible + ArgoCD.
+
+#### 🔹 Projeto Y
+Pipeline CI/CD completo em GitLab com scanner SAST/DAST.
+
+---
+
+### ✨ Curiosidades
+- Gosto de automação, infra escalável e problemas cabeludos.  
+- Atualmente estudando mais sobre cloud pública e segurança.  
