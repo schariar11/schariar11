@@ -17,12 +17,14 @@ I'm a DevOps/DevSecOps professional with experience in:
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/Ansible-000?logo=ansible)
 ![Terraform](https://img.shields.io/badge/Terraform-000?logo=terraform)
+![Python](https://img.shields.io/badge/Python-000?logo=python)
 
 ---
 
 ### 📈 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schariar11&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=schariar11&show_icons=true&theme=tokyonight).
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schariar11&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=schariar11&layout=compact&theme=tokyonight).
 
 ---
