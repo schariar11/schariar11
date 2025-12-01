@@ -11,13 +11,13 @@ Sou profissional de DevOps/DevSecOps com experiência em:
 ---
 
 ### 🚀 Tecnologias que uso no dia a dia
+![Quarkus](https://img.shields.io/badge/Terraform-000?logo=quarkus)
+![Java](https://img.shields.io/badge/Terraform-000?logo=java)
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes)
 ![Ansible](https://img.shields.io/badge/Ansible-000?logo=ansible)
-![Azure](https://img.shields.io/badge/Azure-000?logo=microsoft-azure)
 ![Terraform](https://img.shields.io/badge/Terraform-000?logo=terraform)
-
 ---
 
 ### 📈 Estatísticas do GitHub
