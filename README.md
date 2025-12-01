@@ -1,4 +1,7 @@
-# 👋 Hey! I'm Arthur
+# 👋 Hey! I'm Arthur 
+-Associate Degree in Systems Analysis and Development.  💻🖥️  
+-Enrolled in Bachelor’s Degree in Computational Mathematics. 𝞹📈🧠📚  
+-Average  ![Fedora](https://img.shields.io/badge/Fedora-000?logo=fedora) User.
 
 ### 💻 About me
 I'm a DevOps/DevSecOps professional with experience in:
