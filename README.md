@@ -12,7 +12,6 @@ Sou profissional de DevOps/DevSecOps com experiência em:
 
 ### 🚀 Tecnologias que uso no dia a dia
 ![Quarkus](https://img.shields.io/badge/Terraform-000?logo=quarkus)
-![Java](https://img.shields.io/badge/Terraform-000?logo=java)
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
 ![Docker](https://img.shields.io/badge/Docker-000?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-000?logo=kubernetes)
@@ -21,9 +20,9 @@ Sou profissional de DevOps/DevSecOps com experiência em:
 ---
 
 ### 📈 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schariar11&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schariar11&layout=compact&theme=tokyonight)
 
 ---
 
