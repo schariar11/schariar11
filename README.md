@@ -4,7 +4,8 @@
 -Certified Electronics Technician. ⚙️📟  
 <!-- -Postgraduate Certificate in -->
 <!-- -Postgraduate Certificate in -->
--Average Arch Linux(https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square) User.
+-Average ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square) User.
+
 
 ### 💻 About me
 I'm a DevOps/DevSecOps professional with experience in:
