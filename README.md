@@ -1,6 +1,8 @@
 # 👋 Hey! I'm Arthur
 -Enrolled in Bachelor’s Degree in Computational Mathematics. 𝞹📈🧠📚  
+
 -Associate Degree in Systems Analysis and Development.  💻🖥️  
+
 -Certified Electronics Technician. ⚙️📟  
 <!-- -Postgraduate Certificate in -->
 <!-- -Postgraduate Certificate in -->
