@@ -6,9 +6,11 @@
 -Certified Electronics Technician. ⚙️📟  
 <!-- -Postgraduate Certificate in -->
 <!-- -Postgraduate Certificate in -->
--Average ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square) User.
+-Average ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat-square) User
 
-
+<!-- 
+![AZ-900](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-0078D4?style=flat-square)     ![MongoDB](https://img.shields.io/badge/MongoDB%20Associate%20Developer-47A248?logo=mongodb&logoColor=white&style=flat-square)
+ -->
 ### 💻 About me
 I'm a DevOps/DevSecOps professional with experience in:
 - Kubernetes & OpenShift  
